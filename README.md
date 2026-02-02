@@ -265,6 +265,3 @@ This project was developed as part of a technical evaluation task. For education
 - Restrict AMI access by IP in `manager.d/ai-gateway.conf`
 - Consider firewall rules for ports 5038 and 8088
 
-## 📄 License
-
-MIT
